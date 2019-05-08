@@ -18,12 +18,12 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Leevel\Mail\Facade;
+namespace Leevel\Mail\Proxy;
 
 use Leevel\Di\Container;
 
 /**
- * 门面 mail.
+ * 代理 mail.
  *
  * @author Xiangmin Liu <635750556@qq.com>
  *
